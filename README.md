@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RebekkalPangras
 - 👀 I’m interested in Web3, interacting with data and provide solution to problems
-- 🌱 I’m currently working as a Blockchain Developer
+- 🌱 I’m currently looking for a new exciting opportunity
 - 📫 I am reachable through my email address, rebeccapancras@gmail.com
 
 <!---
