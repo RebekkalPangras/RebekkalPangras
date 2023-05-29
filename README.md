@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RebekkalPangras
-- 👀 I’m interested in Data Science, AI/ML, Web3, interacting with data and provide solution to problems
+- 👀 I’m interested in Software Development, Data Science, AI/ML, Web3, interacting with data and provide solution to problems
 - 🌱 I’m currently looking for a new exciting opportunity
 - 📫 I am reachable through my email address, rebeccapancras@gmail.com
 
